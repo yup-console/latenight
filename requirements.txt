@@ -1,0 +1,6 @@
+# Jupiter Selfbot — Dependencies
+# Python 3.11+
+
+discord.py-self>=2.1.0    # selfbot-capable fork of discord.py
+fluxwave>=0.1.1            # Lavalink v4 client
+aiohttp>=3.9.0             # required by fluxwave
