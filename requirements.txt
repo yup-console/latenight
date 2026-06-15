@@ -1,4 +1,4 @@
-# Jupiter Selfbot — Dependencies
+# 🌙 LateNight Selfbot — Dependencies
 # Python 3.11+
 
 discord.py-self>=2.1.0    # selfbot-capable fork of discord.py
