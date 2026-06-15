@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 **3. Set up your token**
 
-Create a `.env` file in the project folder:
+Rename `.env.example` to `.env`, then open it and put your Discord token:
 ```
 DISCORD_TOKEN=your_token_here
 ```
