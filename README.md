@@ -49,10 +49,6 @@ OWNER_IDS = {
 TOKEN = "YOUR_DISCORD_TOKEN_HERE"
 ```
 
-> **How to get your token:** Open Discord in browser → F12 → Console → paste:
-> `webpackChunkdiscord_app.push([[Math.random()],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]);m.filter(m=>m?.exports?.default?.getToken!==void 0).map(m=>m.exports.default.getToken())`
-> Never share your token with anyone.
-
 **4. Run**
 ```bash
 python latenight.py
