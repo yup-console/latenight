@@ -161,4 +161,4 @@ This project is for **experimental and educational purposes only**. Usage of sel
 
 ---
 
-<p align="center">made with 🌙 by <b>yup-console</b></p>
+<p align="center">Made with 🌙 by <b>yup-console</b></p>
