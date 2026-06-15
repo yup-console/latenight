@@ -650,7 +650,7 @@ class Music(commands.Cog):
     async def help(self, ctx: commands.Context) -> None:
         """Show all LateNight music commands."""
         help_text = f"""
-**🌙 LateNight Selfbot — Commands** `(prefix: {PREFIX})`
+**🌙 [LateNight Selfbot](https://github.com/yup-console/latenight) — Commands** `(prefix: {PREFIX})`
 
 **Utility**
 `{PREFIX}ping` — Bot latency
